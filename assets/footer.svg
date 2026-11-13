@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 1200 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#060913" />
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00E5FF" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#6366F1" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" rx="12" fill="url(#footerBg)" />
+  <line x1="0" y1="2" x2="1200" y2="2" stroke="url(#footerLine)" stroke-width="2" />
+
+  <style>
+    .footer-text { font-family: 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 13px; font-weight: 600; fill: #64748B; letter-spacing: 1px; }
+    .status-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 600; fill: #38BDF8; }
+  </style>
+
+  <g transform="translate(60, 48)">
+    <circle cx="10" cy="10" r="4" fill="#10B981" />
+    <text x="24" y="15" class="status-text">CONTROL PLANE: ONLINE • ZERO CRITICAL CVES • PRODUCTION READY</text>
+  </g>
+
+  <g transform="translate(60, 78)">
+    <text x="24" y="12" class="footer-text">ARCHITECTED BY VIVEK KUMAR • DEVSECOPS &amp; AGENTIC AI PLATFORMS • 2026</text>
+  </g>
+</svg>
