@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <img src="./assets/banner.svg" alt="Vivek Kumar - Principal Cloud Architect & Agentic AI Systems" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -191,3 +192,5 @@ I welcome conversations regarding Cloud Architecture, Enterprise DevSecOps trans
 <img src="./assets/footer.svg" alt="Vivek Kumar Control Plane" width="100%" />
 
 </div>
+=======
+>>>>>>> 49664a64643985670330858ee6bbe08c626ee0c1
